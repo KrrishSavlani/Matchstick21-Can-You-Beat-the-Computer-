@@ -2,12 +2,12 @@
 
 <p>Description:</p>
 <p>Matchstick21 is a fun and challenging game where you take on the computer in a battle of wits. 
-You start with 21 matchsticks, and each turn, you can remove 1 to 4 matchsticks.
+You start with 21 matchsticks, and each turn, you can remove 1 to 4 matchsticks.</p>
 
- here's the twist: whoever picks the last matchstick <b> loses!<\b>
+<p><b>Here's the twist:</b> whoever picks the last matchstick <strong>loses!</strong></p>
 
-While it might seem like the computer has the upper hand, <b> give it a shot and see if you can outsmart it.</b>
+<p>While it might seem like the computer has the upper hand, <strong>give it a shot and see if you can outsmart it.</strong></p>
 
-Can you come up with a winning strategy, <b> or will the computer prove too clever? <\b>
+<p>Can you come up with a winning strategy, <strong>or will the computer prove too clever?</strong></p>
 
-<b> Play<u> Matchstick21<\u><\b> and <b> find out!<\b></p>
+<p><strong>Play <u>Matchstick21</u> and <u>find out!</u></strong></p>
