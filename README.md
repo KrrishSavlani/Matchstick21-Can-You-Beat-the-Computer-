@@ -6,7 +6,7 @@ You start with 21 matchsticks, and each turn, you can remove 1 to 4 matchsticks.
 
  here's the twist: whoever picks the last matchstick <b> loses!<\b>
 
-While it might seem like the computer has the upper hand, <b> give it a shot and see if you can outsmart it.<\b>
+While it might seem like the computer has the upper hand, <b> give it a shot and see if you can outsmart it.</b>
 
 Can you come up with a winning strategy, <b> or will the computer prove too clever? <\b>
 
